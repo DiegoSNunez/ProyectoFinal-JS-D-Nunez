@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "img/eucalipto.jpg",
+    "name": "Aceite Esencial de Eucalipto",
+    "ut": "Respiración libre-Higiene Bucal-Defensas",
+    "price": "$3.000.-"
+  },
+  {
+    "id": 2,
+    "img": "img/manzanilla.jpg",
+    "name": "Aceite Esencial de Manzanilla",
+    "ut": "Descanso-Estómago-Ciclo femenino",
+    "price": "$3.500.-"
+  },
+  {
+    "id": 3,
+    "img": "img/limon.jpg",
+    "name": "Aceite Esencial de Limon",
+    "ut": "Inspiración-Creatividad",
+    "price": "$4.000.-"
+  },
+  {
+    "id": 4,
+    "img": "img/oleo31.jpg",
+    "name": "Óleo 31",
+    "ut": "Cabeza-Estómago-Flexibilidad-Pre Actividad Física-Post Actividad Física y Sobreesfuerzos-Libertad de Movimientos",
+    "price": "$6.500.-"
+  },
+  {
+    "id": 5,
+    "img": "img/anti.jpg",
+    "name": "Anti-Stress",
+    "ut": "Relajante-Tranquilidad-Descanso",
+    "price": "$5.500.-"
+  },
+  {
+    "id": 6,
+    "img": "img/sos.jpg",
+    "name": "SoS Motivation",
+    "ut": "Alegría-Motivación-Creatividad-Inspiración",
+    "price": "$5.000.-"
+  },
+  {
+    "id": 7,
+    "img": "img/harmony.jpg",
+    "name": "Harmony +",
+    "ut": "Armonía-Equilibrio",
+    "price": "$5.800.-"
+  },
+  {
+    "id": 8,
+    "img": "img/sos.jpg",
+    "name": "Crema de Tomillo",
+    "ut": "Tensión-Invierno-",
+    "price": "$7.800.-"
+  }
+]
